@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="main.css"?>
+<svg version="1.1" id="foozle" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	viewBox="0 0 600 400" style="enable-background:new 0 0 600 400;" xml:space="preserve">
+<text class="meaningStyle" id="meaning01" transform="matrix(1 0 0 1 151.7529 108.645)">to bungle; to execute a task incompetently</text>
+<text class="meaningStyle" id="meaning02" transform="matrix(1 0 0 1 151.7529 132.145)">to play (a game or sport) poorly; esp. golf</text>
+<g class="meaningStyle" id="meaning03">
+	<text transform="matrix(1 0 0 1 151.7529 155.645)">A bad golf-stroke</text>
+	<text transform="matrix(1 0 0 1 151.7529 155.645)">A bad golf-stroke</text>
+</g>
+<text class="usageStyle" id="theUsage" transform="matrix(1 0 0 1 58.7529 214.645)"><tspan x="0" y="0">Before you take a drink, you should stop and have a think </tspan><tspan x="0" y="21.6" class="st0 st1">because that booze’ll make ya foozle and that scotch can make ya botch; </tspan><tspan x="0" y="43.2" class="st0 st1">and that’s not fun.</tspan></text>
+<text class="typeStyle" id="type01" transform="matrix(1 0 0 1 58.7529 108.645)">v</text>
+<text class="typeStyle" id="type02" transform="matrix(1 0 0 1 58.7529 155.645)">n</text>
+<text class="speakStyle" id="theSpeak" transform="matrix(1 0 0 1 23.7529 57.645)">Foozle</text>
+<text class="wordStyle" id="theWord" transform="matrix(1 0 0 1 159.7529 57.645)">[FOO-zuhl]</text>
+</svg>
