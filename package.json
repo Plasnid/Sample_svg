@@ -1,0 +1,24 @@
+{
+  "name": "Sample_svg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bork.js",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Plasnid/Sample_svg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Plasnid/Sample_svg/issues"
+  },
+  "homepage": "https://github.com/Plasnid/Sample_svg#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
